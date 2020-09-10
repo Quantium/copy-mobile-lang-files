@@ -1,5 +1,7 @@
 # README
 
+Python script for change common language files for android and IOS. The script reads from two language android xml file and changes the text of the original in the variables of a switch file for the text in the new android
+
 Language variables change script between android xml file and ios variables file
 
 ## References
